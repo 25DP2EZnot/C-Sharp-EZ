@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\See Sharp\\ConsoleApp028\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Prog and Alg mape\\See Sharp\\ConsoleApp028\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\See Sharp\\ConsoleApp028\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Prog and Alg mape\\See Sharp\\ConsoleApp028\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Elgars\\.nuget\\packages\\",
-      "outputPath": "D:\\See Sharp\\ConsoleApp028\\obj\\",
+      "outputPath": "D:\\Prog and Alg mape\\See Sharp\\ConsoleApp028\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elgars\\AppData\\Roaming\\NuGet\\NuGet.Config"
